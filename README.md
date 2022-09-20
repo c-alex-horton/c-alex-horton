@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Caleb!
 - 👀 I’m interested in music, cooking, and programming.
-- 🌱 I’m currently learning Advanced React, Next.js, and Back End Development.
+- 🌱 I'm always learning, currently learning more about authentication and authorization!
+- 💼 Currently working Contract Work
 - 📫 You can reach me at c.alex.horton@gmail.com
 
 <!---
